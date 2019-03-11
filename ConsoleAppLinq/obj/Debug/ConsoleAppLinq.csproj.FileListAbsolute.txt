@@ -1,0 +1,7 @@
+C:\GitHubRepos\ConsoleAppLinq\ConsoleAppLinq\ConsoleAppLinq\bin\Debug\ConsoleAppLinq.exe.config
+C:\GitHubRepos\ConsoleAppLinq\ConsoleAppLinq\ConsoleAppLinq\bin\Debug\ConsoleAppLinq.exe
+C:\GitHubRepos\ConsoleAppLinq\ConsoleAppLinq\ConsoleAppLinq\bin\Debug\ConsoleAppLinq.pdb
+C:\GitHubRepos\ConsoleAppLinq\ConsoleAppLinq\ConsoleAppLinq\obj\Debug\ConsoleAppLinq.csprojAssemblyReference.cache
+C:\GitHubRepos\ConsoleAppLinq\ConsoleAppLinq\ConsoleAppLinq\obj\Debug\ConsoleAppLinq.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\ConsoleAppLinq\ConsoleAppLinq\ConsoleAppLinq\obj\Debug\ConsoleAppLinq.exe
+C:\GitHubRepos\ConsoleAppLinq\ConsoleAppLinq\ConsoleAppLinq\obj\Debug\ConsoleAppLinq.pdb
